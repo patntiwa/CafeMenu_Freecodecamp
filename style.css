@@ -48,3 +48,7 @@ h2 {
 .item p {
     display: inline-block;
 }
+hr {
+    height: 3px;
+    background-color:brown;
+  }
