@@ -3,4 +3,8 @@ Freecodecamp Project
 
 #Screenshoot
 
-/home/patrick/Downloads/FireShot/Cafe Menu - patntiwa.github.io.png
+![Uploading Cafe Menu - patntiwa.github.io.png…]()
+
+#Live link 
+
+https://patntiwa.github.io/CafeMenu_Freecodecamp/
